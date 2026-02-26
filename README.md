@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Esteban
 
 💻 **Computer Science Student | Backend Developer in Progress**
+
 📍 New Jersey, USA
+
 🚀 Passionate about building reliable systems, clean architectures, and real-world backend applications.
 
 ---
