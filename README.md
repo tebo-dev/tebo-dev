@@ -1,49 +1,83 @@
-# Hey, I'm Esteban 👋
+# 👋 Hi, I'm Esteban
 
-I'm a Computer Science student and aspiring Software Engineer, currently building full‑stack applications with a focus on clean architecture, great UX, and professional development workflows.
-
-I love turning ideas into real, polished projects — from backend APIs to frontend interfaces — and I'm always learning, experimenting, and refining my craft.
-
----
-
-## 🚀 What I'm Working On
-- **Donee** — a full-stack app with a clean FastAPI backend, modular services, domain errors, JWT auth, and a modern frontend.
-- Building strong foundations in **software engineering**, not just coding.
-- Improving my UI/UX skills with thoughtful design tokens, components, and responsive layouts.
+💻 **Computer Science Student | Backend Developer in Progress**
+📍 New Jersey, USA
+🚀 Passionate about building reliable systems, clean architectures, and real-world backend applications.
 
 ---
 
-## 🧠 Tech Stack & Tools
+## 🧠 About Me
 
-### **Backend**
-- Python • FastAPI • SQLAlchemy • PostgreSQL  
-- Authentication flows (JWT, password hashing, reset codes)  
-- Clean architecture: routers → services → repositories → models  
+I'm currently focused on becoming a **strong backend engineer**, learning how to design systems that are:
 
-### **Dev Tools**
-- Git & GitHub (branches, clean commits, PR-style workflow)  
-- Pre-commit hooks (black, isort, flake8)  
-- VS Code • Postman • Docker (learning)
+* ✅ Scalable
+* ✅ Secure
+* ✅ Maintainable
+* ✅ Production-ready
 
----
+I enjoy understanding **how systems work internally**, not just making things work.
 
-## 📚 What I'm Learning Next
-- Advanced frontend (React or Vue)
-- Deeper database design & migrations
-- Testing (pytest, integration tests)
-- Deployment & CI/CD
+Right now, I'm developing my main project **Donee**, a professional task-management backend where I apply concepts such as clean architecture, domain-driven design, authentication, transactions, and concurrency control.
 
 ---
 
-## 🎨 My Approach
-I care about:
-- Clean, readable, maintainable code  
-- Thoughtful project structure  
-- Professional workflows  
-- Learning through building  
-- Balancing logic with design  
+## 🛠️ Tech Stack
+
+**Backend**
+
+* Python
+* FastAPI
+* SQLAlchemy
+* PostgreSQL
+* REST API Design
+
+**Concepts I'm Actively Learning**
+
+* System Design
+* Transactions & Concurrency
+* Domain-driven Architecture
+* Authentication & Authorization
+* Testing & Backend Best Practices
+
+**Tools**
+
+* Git & GitHub
+* Docker (learning)
+* Linux
+* VS Code
+
+---
+
+## 🚧 Featured Project
+
+### 🔹 Donee (In Progress)
+
+A professional task-management backend focused on:
+
+* JWT Authentication
+* Clean Service Architecture
+* Database Transactions
+* Domain Errors Handling
+* Scalable API Design
+
+> Built as a long-term learning and portfolio project.
+
+---
+
+## 🎯 Goals
+
+* Become a professional Backend Developer
+* Contribute to impactful software systems
+* Continuously improve engineering thinking
+* Build software that solves real problems
 
 ---
 
 ## 📫 Connect With Me
-Feel free to reach out — I love talking about projects, ideas, and learning new things.
+
+* GitHub: https://github.com/tebo-dev
+* Email: esteban.jumbo.dev@gmail.com
+
+---
+
+⭐ *Always learning. Always building.*
