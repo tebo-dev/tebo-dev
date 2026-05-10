@@ -79,6 +79,7 @@ A professional task-management backend focused on:
 
 * GitHub: https://github.com/tebo-dev
 * Email: esteban.jumbo.dev@gmail.com
+* LinkedIn: www.linkedin.com/in/esteban-jumbo-a27861405
 
 ---
 
